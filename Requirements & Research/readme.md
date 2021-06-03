@@ -18,7 +18,7 @@
 
 *	“Convolutional Radio Modulation Recognition Networks” published in 2016 introduced the idea of using Deep Learning networks for Automatic Modulation Classification.
 
-*There are now a large variety of deep architectures that have been developed for the purpose of Modulation Recognition. 
+* There are now a large variety of deep architectures that have been developed for the purpose of Modulation Recognition. 
 ## Defining the System 
 
 ![alt text](https://github.com/average1129/MiniProjectSDLC/blob/main/Requirements%20%26%20Research/System%20Overview.jpg)
