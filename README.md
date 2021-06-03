@@ -6,7 +6,7 @@
 |`2_Design`        |Documents specifying design details|
 |`3_Implementation`|All code and documentation|
 |`4_Results`| Confusion Matrices, SNR vs Accuracy |
-|`5_Test _Plan| Test plan and procedure|
+|`5_Test _Plan`| Test plan and procedure|
 
 
 ## Workflow Planning 
