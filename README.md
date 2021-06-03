@@ -8,7 +8,7 @@
 |`4_Results`| Confusion Matrices, SNR vs Accuracy |
 
 
-Workflow Planning 
+## Workflow Planning 
 
 This Project would not use a traditional waterfall methodology for implementation. We would choose to implement Agile methodology instead. The reason for this decision are: 
 
@@ -20,9 +20,9 @@ This Project would not use a traditional waterfall methodology for implementatio
 Using Agile methodology will give us more flexibility in developing the project after a common code base for data processing has been established. 
 
 
-##Learning Resources
+## Learning Resources
 *markdownCheatsheet(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 *markdownBasics(https://guides.github.com/features/mastering-markdown/)
 
-#References 
+# References 
 * Sanchana-2k LTTS Mini Project (https://github.com/Sanchana-2k/LTTS_C_MiniProject)
