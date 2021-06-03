@@ -21,8 +21,8 @@ Using Agile methodology will give us more flexibility in developing the project 
 
 
 ## Learning Resources
-*markdownCheatsheet(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
-*markdownBasics(https://guides.github.com/features/mastering-markdown/)
+*(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+*(https://guides.github.com/features/mastering-markdown/)
 
 # References 
 * Sanchana-2k LTTS Mini Project (https://github.com/Sanchana-2k/LTTS_C_MiniProject)
