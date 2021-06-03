@@ -7,7 +7,7 @@
 ![alt text](https://github.com/average1129/MiniProjectSDLC/blob/main/Design/Low%20Level%20Behavioral%20Diagram.jpg)
 
 ## High Level Structural Diagram 
-![alt text](https://github.com/average1129/MiniProjectSDLC/blob/main/Design/High%20Level%20Structural%20Diagram.jpg)
+![alt text](https://github.com/average1129/MiniProjectSDLC/blob/main/Design/High%20Level_Structural_Diagram.jpg)
 
 ## Low Level Structural Diagram 
 ![alt text](https://github.com/average1129/MiniProjectSDLC/blob/main/Design/Low%20Level%20Structural%20Diagram.jpg)
