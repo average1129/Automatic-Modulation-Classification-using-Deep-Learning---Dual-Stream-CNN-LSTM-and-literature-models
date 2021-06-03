@@ -6,7 +6,7 @@
 
 *	A large number of applications require identification and monitoring of all these signals, both for civilian and military applications. 
 
-*	The next evolution in wireless communications systems is the development of cognitive radio, Dynamic Spectrum Access is a fundamental part of Cognitive Radio. For this transceiver should be able to gather information about its information 
+*	The next evolution in wireless communications systems is the development of Cognitive radio, Dynamic Spectrum Access is a fundamental part of Cognitive Radio. For this transceiver should be able to gather information about its environment. 
 
 *	There is a need to know what kind of signals are being transmitted at any given point in time 
 
