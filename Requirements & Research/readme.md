@@ -1,6 +1,6 @@
-#Requirements
+# Requirements
 
-##Introduction 
+## Introduction 
 
 *	Despite regulations by governments and regulating authorities, the signal space is a very noisy environment.
 
