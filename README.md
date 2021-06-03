@@ -11,7 +11,7 @@
 
 ## Workflow Planning 
 
-This Project would not use a traditional waterfall methodology for implementation. We would choose to implement Agile methodology instead. The reason for this decision are: 
+This Project would not use a traditional waterfall methodology for implementation. We would choose to implement Agile methodology instead. The reasons for this decision are: 
 
 * A large number of different deep architectures have been implemented in this research domain with the same dataset.
 * Models build off each other in increasing complexity, and with experience gained in the team. 
